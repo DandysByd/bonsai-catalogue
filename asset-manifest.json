@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bonsai-catalogue/static/css/main.8b1d454c.css",
-    "main.js": "/bonsai-catalogue/static/js/main.bb4f6189.js",
+    "main.css": "/bonsai-catalogue/static/css/main.b037c533.css",
+    "main.js": "/bonsai-catalogue/static/js/main.8a2b552e.js",
     "static/js/787.2b37eddd.chunk.js": "/bonsai-catalogue/static/js/787.2b37eddd.chunk.js",
     "static/media/create.png": "/bonsai-catalogue/static/media/create.21540822c72b4cd72fa4.png",
     "static/media/main-image.jpeg": "/bonsai-catalogue/static/media/main-image.6ff16de456be2ba6e2d6.jpeg",
@@ -10,12 +10,12 @@
     "static/media/tools.jpg": "/bonsai-catalogue/static/media/tools.f77d2d31c7200e008c1e.jpg",
     "static/media/shapes.jpg": "/bonsai-catalogue/static/media/shapes.d946ebd3cee5d1c849f5.jpg",
     "index.html": "/bonsai-catalogue/index.html",
-    "main.8b1d454c.css.map": "/bonsai-catalogue/static/css/main.8b1d454c.css.map",
-    "main.bb4f6189.js.map": "/bonsai-catalogue/static/js/main.bb4f6189.js.map",
+    "main.b037c533.css.map": "/bonsai-catalogue/static/css/main.b037c533.css.map",
+    "main.8a2b552e.js.map": "/bonsai-catalogue/static/js/main.8a2b552e.js.map",
     "787.2b37eddd.chunk.js.map": "/bonsai-catalogue/static/js/787.2b37eddd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b1d454c.css",
-    "static/js/main.bb4f6189.js"
+    "static/css/main.b037c533.css",
+    "static/js/main.8a2b552e.js"
   ]
 }
